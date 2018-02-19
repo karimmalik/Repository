@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Money Tracker Pro</string>
+    <!--loginogin + signup Page-->
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="no_account">No Account? Create one!</string>
+    <string name="email">Email</string>
+    <string name="target">Target</string>
+    <string name="create">Create</string>
+    <string name="already_account">Already has an account? Login!</string>
+    <string name="hello">Hello</string>
+    <string name="nama">Nama</string>
+
+
+</resources>
