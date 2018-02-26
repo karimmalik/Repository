@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">BudgetTracker</string>
+    <!--<string name="username">Username</string>-->
+    <string name="password">password</string>
+    <string name="login">Login</string>
+
+    <string name="register">Register</string>
+    <string name="already_has_an_account">Already has an account</string>
+    <string name="email">email</string>
+    <string name="create_an_acccount">Create an acccount</string>
+    <string name="logout">Logout</string>
+    <string name="nick_name">Nick Name</string>
+    <string name="target_expense_month">Target Expense / Month</string>
+    <string name="save_data">Save Data</string>
+    <!--<string name="save_data">Save Data</string>-->
+    <string name="address">Address</string>
+    <string name="username">Username</string>
+    <string name="total">Total</string>
+
+    <array name="category_expense">
+        <item>Transportation</item>
+        <item>Breakfast</item>
+        <item>Lunch</item>
+        <item>Dinner</item>
+        <item>Snack</item>
+        <item>Entertainment</item>
+    </array>
+
+    <array name="category_expense2">
+        <item>Profit</item>
+        <item>Bonus</item>
+        <item>Other</item>
+    </array>
+</resources>
